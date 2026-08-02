@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Forest Zheng 👋
+# Hi, I'm Maison Zheng 👋
 
 ### Computer Science Master's Student · Network & Cloud Engineering · SRE / DevOps · Data Systems
 
@@ -131,8 +131,7 @@ University capstone work evaluating foundation models for multivariate time-seri
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PsenZ&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Forest's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PsenZ&layout=compact&hide_border=true&theme=transparent" alt="Forest's most-used languages" />
+[Profile](https://github.com/PsenZ) · [Repositories](https://github.com/PsenZ?tab=repositories) · [Contribution activity](https://github.com/PsenZ)
 
 </div>
 
